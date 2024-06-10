@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mawaismukhtar" target="blank"><img src="https://img.shields.io/twitter/follow/mawaismukhtar?logo=twitter&style=for-the-badge" alt="awais mukhtar" /></a> </p>
 
-- 🔭 I’m currently working on [Crossfit app](https://dashboard.theathletesapp.com/)
+- 🔭 I’m currently working on [Cloud Computing]()
 
-- 🌱 I’m currently learning **Nestjs and Devops**
+- 🌱 I’m currently learning **Nestjs,Devops(CICD, pipelines and deployments) and Message Brokers e.g (RabbitMQ, Kafka)**
 
 - 👯 I’m looking to collaborate on **Devops**
 
